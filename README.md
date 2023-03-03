@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a self-taught frontend developer.
+
 I'm going to embark on a self-learning journy of backend technologies.
 
 <!--
